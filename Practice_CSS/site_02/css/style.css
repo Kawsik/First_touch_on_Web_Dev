@@ -1,0 +1,29 @@
+@charset utf-8;
+*{
+	margin:0
+	}
+.l_r_b_w{
+	text-align:justify;
+	border-left:20px solid;
+	border-left-color:#9CD8F8;
+	border-right:20px solid;
+	border-right-color:#9CD8F8;
+	padding:0 5px;
+	}
+h1{
+	background-color:#9CD8F8;
+	}
+h2{
+	background-color:#D3A9A9;
+	}
+h3{
+	background-color:#A4FFBB;
+	}
+#div1{
+	text-height:40px;
+	}
+#footer_line{
+	height:20px;
+	background-color:#9CD8F8;
+	border:none;
+	}

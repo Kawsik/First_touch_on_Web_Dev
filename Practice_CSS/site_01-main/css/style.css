@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	}
+#full_body{
+	background-color:#000;
+	margin-left:20px;
+	margin-right:20px;
+	}
+#full_body_header{
+	background-color:#E0E6F8;
+	}
+#main_body{
+	background-color:#F2E0F7;
+	}
+#body_1{
+	background-color:#CEF6CE;
+	}
+#body_1_header{
+	background-color:#F8EFFB;
+	}
+#body_1_body{
+	background-color:#FBEFEF;
+	}
+#my_resume{
+	text-align:center;
+	background-color:#ffffff;
+	}
+#body_2{
+	background-color:#EFFBFB;
+	}
+#body_2_header{
+	background-color:#F3E2A9;
+	}
+#body_2_body{
+	background-color:#CEF6E3;
+	}
+#footer{
+	background-color:#E6F8E0;
+	}
+#sidebar{
+	background-color:#FFFFFF;
+	}
